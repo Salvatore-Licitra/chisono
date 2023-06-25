@@ -1,2 +1,6 @@
 # Salvatore Licitra
-Il mio profilo
+- 👋 Benvenuti a tutti
+- 👀 Il mio interesse e' la programmazione
+- 🌱 Attualmente sto facendo dei corsi per migliorarmi ...
+- 💞️ Il mio hobby e' giocare a Clash of Clans ...
+- 📫 Mi piacerebbe sviluppare qualche bot per questo fantastico gioco.
